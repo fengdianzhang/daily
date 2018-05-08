@@ -7,3 +7,5 @@
 [深入理解java中的Soft references && Weak references && Phantom reference](https://blog.csdn.net/xlinsist/article/details/57089288)  
 ## 2018-05-07  
 [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)  
+## 2018-05-08
+[Awesome Adb——一份超全超详细的 ADB 用法大全](https://github.com/mzlogin/awesome-adb)
