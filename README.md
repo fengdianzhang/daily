@@ -9,3 +9,5 @@
 [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)  
 ## 2018-05-08
 [Awesome Adb——一份超全超详细的 ADB 用法大全](https://github.com/mzlogin/awesome-adb)
+## 2018-05-09
+[谈谈我理解的Android应用架构](https://www.jianshu.com/p/734d3693da02)
