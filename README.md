@@ -15,3 +15,5 @@
 [Android最佳性能实践(二)——分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
 ## 2018-05-11
 [如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
+## 2018-05-12
+[你真的了解AsyncTask？](http://weishu.me/2016/01/18/dive-into-asynctask/)
