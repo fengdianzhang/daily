@@ -11,3 +11,7 @@
 [Awesome Adb——一份超全超详细的 ADB 用法大全](https://github.com/mzlogin/awesome-adb)
 ## 2018-05-09
 [谈谈我理解的Android应用架构](https://www.jianshu.com/p/734d3693da02)
+## 2018-05-10
+[Android最佳性能实践(二)——分析内存的使用情况](https://blog.csdn.net/guolin_blog/article/details/42238633)
+## 2018-05-11
+[如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
