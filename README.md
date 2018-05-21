@@ -17,3 +17,9 @@
 [如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
 ## 2018-05-12
 [你真的了解AsyncTask？](http://weishu.me/2016/01/18/dive-into-asynctask/)
+## 2018-05-13
+[组件化实践详解（一）](https://juejin.im/post/5a756ad85188257a5d2b094d)
+## 2018-05-14
+[组件化实践详解（二）](https://juejin.im/post/5a784953f265da4e8700a9f0)
+## 2018-05-15
+[一个Android路由框架的诞生之路](https://juejin.im/post/5ae2c5b0f265da0b722ad929)
