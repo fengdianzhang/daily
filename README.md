@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-17
+
+[这可能是最好的RxJava 2.x 教程](https://www.jianshu.com/p/a93c79e9f689)
+
 ## 2018-05-16
 
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
