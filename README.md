@@ -18,7 +18,7 @@
 
 ## 2018-05-11
 
-[如何快速排查解决Android中的内存泄露问题](http://www.cnblogs.com/tree-node/p/6741254.html)
+[如何快速排查解决Android中的内存泄露问题](https://www.cnblogs.com/fengdianzhang/p/6741254.html)
 
 ## 2018-05-10
 
