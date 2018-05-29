@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-18
+
+[深入浅出 Java 8 Lambda 表达式](https://segmentfault.com/a/1190000003941446)
+
 ## 2018-05-17
 
 [这可能是最好的RxJava 2.x 教程](https://www.jianshu.com/p/a93c79e9f689)
