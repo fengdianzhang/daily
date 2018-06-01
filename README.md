@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-19
+
+[组件化在项目中的使用姿势](https://www.jianshu.com/p/ed845d796710)
+
 ## 2018-05-18
 
 [深入浅出 Java 8 Lambda 表达式](https://segmentfault.com/a/1190000003941446)
