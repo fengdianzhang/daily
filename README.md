@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-22
+
+[依赖注入神器：Dagger2详解系列](https://dreamerhome.github.io/2016/07/07/dagger/)
+
 ## 2018-05-21
 
 [一步一步带你轻松打造自己的ButterKnife注解框架(下)](https://blog.csdn.net/binbinqq86/article/details/79666374)
