@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-26
+
+[Android 架构组件（一）——Lifecycle](https://blog.csdn.net/zhuzp_blog/article/details/78871374)
+
 ## 2018-05-25
 
 [关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭](https://juejin.im/post/582b2c818ac24700618ff8f5)
