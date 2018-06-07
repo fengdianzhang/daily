@@ -1,5 +1,13 @@
 # Android 每日一文
 
+## 2018-05-28
+
+[Android架构组件（三）——ViewModel](https://blog.csdn.net/zhuzp_blog/article/details/78910535)
+
+## 2018-05-27
+
+[Android架构组件（二）——LiveData](https://blog.csdn.net/zhuzp_blog/article/details/78871527)
+
 ## 2018-05-26
 
 [Android 架构组件（一）——Lifecycle](https://blog.csdn.net/zhuzp_blog/article/details/78871374)
