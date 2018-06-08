@@ -1,5 +1,9 @@
 # Android 每日一文
 
+## 2018-05-19
+
+[彻底弄清support支持库，以及v4 v7重复依赖问题深究](https://www.jianshu.com/p/f769ea6db2c1)
+
 ## 2018-05-28
 
 [Android架构组件（三）——ViewModel](https://blog.csdn.net/zhuzp_blog/article/details/78910535)
