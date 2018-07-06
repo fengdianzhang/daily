@@ -1,6 +1,10 @@
 # Android 每日一文
 
-## 2018-05-19
+## 2018-05-30
+
+[轻松学，听说你还没有搞懂 Dagger2](https://blog.csdn.net/briblue/article/details/75578459)
+
+## 2018-05-29
 
 [彻底弄清support支持库，以及v4 v7重复依赖问题深究](https://www.jianshu.com/p/f769ea6db2c1)
 
