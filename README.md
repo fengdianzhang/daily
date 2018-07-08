@@ -1,5 +1,9 @@
 # Android 每日一文
 
+##
+
+[Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
+
 ## 2018-05-30
 
 [轻松学，听说你还没有搞懂 Dagger2](https://blog.csdn.net/briblue/article/details/75578459)
