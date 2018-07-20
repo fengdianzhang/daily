@@ -1,6 +1,9 @@
 # Android 每日一文
 
-##
+## 2018-06-01
+[Android手动显示和隐藏软键盘方法总结](https://blog.csdn.net/ccpat/article/details/46717573)
+
+## 2018-05-31
 
 [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
 
